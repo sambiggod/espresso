@@ -1,7 +1,7 @@
-# @expresso/cores
+# @espresso/cores
 
-[![NPM version](https://img.shields.io/npm/v/@expresso/cores.svg?style=flat)](https://npmjs.org/package/@expresso/cores)
-[![NPM downloads](http://img.shields.io/npm/dm/@expresso/cores.svg?style=flat)](https://npmjs.org/package/@expresso/cores)
+[![NPM version](https://img.shields.io/npm/v/@espresso/cores.svg?style=flat)](https://npmjs.org/package/@espresso/cores)
+[![NPM downloads](http://img.shields.io/npm/dm/@espresso/cores.svg?style=flat)](https://npmjs.org/package/@espresso/cores)
 
 ## Install
 

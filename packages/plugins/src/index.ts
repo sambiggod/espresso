@@ -1,1 +1,5 @@
-export default 'Hello father 4!';
+import espressoPlugin from './plugin';
+
+export default {
+    espressoPlugin
+}

@@ -4,13 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "husky install"
+    "dev": "ts-node index.ts && pnpm run start",
+    "clean": "rm -rf node_modules **/*/node_modules",
+    "preinstall": "husky install",
+    "start": "pnpm -r run dev",
+    "build": "pnpm -r run build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "husky": "^9.0.11"
+    "@types/node": "^20.12.7",
+    "husky": "^9.0.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
   }
 }
