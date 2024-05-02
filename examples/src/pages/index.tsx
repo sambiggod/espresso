@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import { createRoot } from 'react-dom/client';
-import yayJpg from '../assets/yay.jpg';
 const { getEspresso, getApp, initEspresso } = require('@espresso/cores');
 
 export default function HomePage() {
